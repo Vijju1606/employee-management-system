@@ -37,3 +37,4 @@ C:\Users\Devip\OneDrive\Desktop\EmployueeCrudApp\EmployeeApi\bin\Debug\net10.0\M
 C:\Users\Devip\OneDrive\Desktop\EmployueeCrudApp\EmployeeApi\bin\Debug\net10.0\SharpCompress.dll
 C:\Users\Devip\OneDrive\Desktop\EmployueeCrudApp\EmployeeApi\bin\Debug\net10.0\Snappier.dll
 C:\Users\Devip\OneDrive\Desktop\EmployueeCrudApp\EmployeeApi\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Devip\OneDrive\Desktop\EmployueeCrudApp\EmployeeApi\obj\Debug\net10.0\EmployeeApi.sourcelink.json
